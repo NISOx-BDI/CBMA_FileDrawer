@@ -1,6 +1,6 @@
 # Estimating the number of missing experiments in a neuroimaging meta-analysis
 
-_Abstract_ Coordinate-based meta-analyses (CBMA) allow researchers to combine the results from multiple fMRI studies with the goal of obtaining results that are more likely to generalise. However, the interpretation of CBMA findings can be impaired by the file drawer problem, a type of publications bias that refers to studies that are carried out but are not published due to lack of significance. Using data from the BrainMap database, we propose a zero-truncated modelling approach that allows us to estimate the prevalence of non-significant contrasts. Application of our method to the data from BrainMap provides evidence for the existence of a file drawer, with the rate of missing contrasts estimated as at least 6 per 100 reported.
+Coordinate-based meta-analyses (CBMA) allow researchers to combine the results from multiple fMRI studies with the goal of obtaining results that are more likely to generalise. However, the interpretation of CBMA findings can be impaired by the file drawer problem, a type of publications bias that refers to studies that are carried out but are not published due to lack of significance. Using data from the BrainMap database, we propose a zero-truncated modelling approach that allows us to estimate the prevalence of non-significant contrasts. Application of our method to the data from BrainMap provides evidence for the existence of a file drawer, with the rate of missing contrasts estimated as at least 6 per 100 reported.
 
 
 # How to cite

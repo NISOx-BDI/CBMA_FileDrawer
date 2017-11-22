@@ -13,13 +13,20 @@ This repository contains all the scripts used to generate the figures in the man
 
 ## Reproducing figures and tables
 
-<Instructions on how to use summary/derived data in the `results` directory to create figures and tables>
+_to come_
+
+<!--
+// <Instructions on how to use summary/derived data in the `results` directory to create figures and tables>
 
 <Specify precise steps, including any datasets that need to be downloaded and path variables that need to be set>
+-->
 
 ## Reproducing full analysis
 
+_to come_
+
+<!-- 
 <Instructions on how to (1) obtain raw data; (2) process it to create summary/derived data in the `results`>
 
 <Specify precise steps, including any datasets that need to be downloaded and path variables that need to be set>
-
+-->

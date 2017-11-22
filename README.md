@@ -1,8 +1,7 @@
-(This is the template README.md for this template project sharing repository; please see [HOWTO.md](HOWTO.md) for usage guidelines for this repo.)
+# Estimating the number of missing experiments in a neuroimaging meta-analysis
 
-# Project/Paper Title
+_Abstract_ Coordinate-based meta-analyses (CBMA) allow researchers to combine the results from multiple fMRI studies with the goal of obtaining results that are more likely to generalise. However, the interpretation of CBMA findings can be impaired by the file drawer problem, a type of publications bias that refers to studies that are carried out but are not published due to lack of significance. Using data from the BrainMap database, we propose a zero-truncated modelling approach that allows us to estimate the prevalence of non-significant contrasts. Application of our method to the data from BrainMap provides evidence for the existence of a file drawer, with the rate of missing contrasts estimated as at least 6 per 100 reported.
 
-<Project description>
 
 # How to cite
 
@@ -10,7 +9,7 @@ See [CITATION](CITATION).
 
 # Contents overview
 
-<Summarise what's in this repository>
+This repository contains all the scripts used to generate the figures in the manuscirpt, as well as some starter scripts to help others conduct the same analyses as we have.
 
 ## Reproducing figures and tables
 
